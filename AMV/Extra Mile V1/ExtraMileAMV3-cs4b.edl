@@ -1,0 +1,38 @@
+TITLE: Sequence 01
+
+001  AX       V     C        13022       15230       0           2208       
+* FROM CLIP NAME: ep3-480p.avs
+
+002  AX       V     C        7317        7704        2208        2595       
+* FROM CLIP NAME: ep3-480p.avs
+
+003  AX       V     C        17953       18062       2595        2704       
+* FROM CLIP NAME: ep3-480p.avs
+
+004  AX       V     C        20891       20934       2704        2747       
+* FROM CLIP NAME: ep3-480p.avs
+
+005  AX       V     C        28673       28759       2747        2833       
+* FROM CLIP NAME: ep3-480p.avs
+
+006  AX       V     C        28871       30112       2833        4074       
+* FROM CLIP NAME: ep3-480p.avs
+
+007  AX       V     C        30166       30732       4074        4640       
+* FROM CLIP NAME: ep3-480p.avs
+
+008  AX       V     C        31273       31793       4640        5160       
+* FROM CLIP NAME: ep3-480p.avs
+
+009  AX       V     C        31808       32602       5160        5954       
+* FROM CLIP NAME: ep3-480p.avs
+
+010  BL       V     C        0           377         5954        6331       
+
+011  AX       V     C        19227       19283       6331        6387       
+* FROM CLIP NAME: ep3-480p.avs
+
+012  BL       V     C        0           380         6387        6767       
+
+013  AX       V     C        17612       17742       6767        6897       
+* FROM CLIP NAME: ep3-480p.avs

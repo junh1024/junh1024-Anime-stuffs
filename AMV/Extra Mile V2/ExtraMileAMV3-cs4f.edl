@@ -1,0 +1,32 @@
+TITLE: Sequence 02b
+
+001  AX       V     C        13024       15232       0           2208       
+* FROM CLIP NAME: ep3-480p.avs
+
+002  AX       V     C        7320        7708        2208        2596       
+* FROM CLIP NAME: ep3-480p.avs
+
+003  AX       V     C        26872       27352       2596        3076       
+* FROM CLIP NAME: ep10-480p.avs
+
+004  AX       V     C        29173       29507       3076        3410       
+* FROM CLIP NAME: ep10-480p.avs
+
+005  AX       V     C        29807       30119       3410        3722       
+* FROM CLIP NAME: ep10-480p.avs
+
+006  AX       V     C        7600        8248        3722        4370       
+* FROM CLIP NAME: ep12-480p.avs
+
+007  AX       V     C        207         980         4370        5143       
+* FROM CLIP NAME: ep12-480p.avs
+
+008  AX       V     C        957         1011        5143        5197       
+* FROM CLIP NAME: ep12-480p_HS.avs
+
+009  AX       V     C        29963       30487       5197        5721       
+* FROM CLIP NAME: ep12-480p.avs
+
+010  AX       V     C        30602       30720       5721        5839       
+* FROM CLIP NAME: ep12-480p.avs
+

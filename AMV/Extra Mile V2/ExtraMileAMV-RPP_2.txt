@@ -1,0 +1,12 @@
+ID;Track;StartTime;Length;PlayRate;Locked;Normalized;StretchMethod;Looped;OnRuler;MediaType;FileName;Stream;StreamStart;StreamLength;FadeTimeIn;FadeTimeOut;SustainGain;CurveIn;GainIn;CurveOut;GainOut;Layer;Color;CurveInR;CurveOutR;PlayPitch;LockPitch;FirstChannel;Channels
+ID;"Track";"StartTime";"Length";"PlayRate";"Locked";"Normalized";"StretchMethod";"Looped";"OnRuler";"MediaType";"FileName";"Stream";"StreamStart";"StreamLength";"FadeTimeIn";"FadeTimeOut";"SustainGain";"CurveIn";"GainIn";"CurveOut";"GainOut";"Layer";"Color";"CurveInR";"CurveOutR";"PlayPitch";"LockPitch";"FirstChannel";"Channels"
+1;1;0;92092.09209;1; FALSE; FALSE;0; TRUE; FALSE; AUDIO; "D:\a.wav";0;543209.8765;1380000;0;0;1;0;0;0;0;0;-1;0;0;0; FALSE;0;0
+2;1;92092.09209;16182.84952;1; FALSE; FALSE;0; TRUE; FALSE; AUDIO; "D:\a.wav";0;305305.3053;1380000;0;0;1;0;0;0;0;0;-1;0;0;0; FALSE;0;0
+3;1;108274.9416;20020.02002;1; FALSE; FALSE;0; TRUE; FALSE; AUDIO; "D:\a.wav";0;1120787.454;1380000;0;0;1;0;0;0;0;0;-1;0;0;0; FALSE;0;0
+4;1;128294.9616;13930.59726;1; FALSE; FALSE;0; TRUE; FALSE; AUDIO; "D:\a.wav";0;1216758.425;1380000;0;0;1;0;0;0;0;0;-1;0;0;0; FALSE;0;0
+5;1;142225.5589;13013.01301;1; FALSE; FALSE;0; TRUE; FALSE; AUDIO; "D:\a.wav";0;1243201.535;1380000;0;0;1;0;0;0;0;0;-1;0;0;0; FALSE;0;0
+6;1;155238.5719;27027.02703;1; FALSE; FALSE;0; TRUE; FALSE; AUDIO; "D:\a.wav";0;316983.6503;1380000;0;0;1;0;0;0;0;0;-1;0;0;0; FALSE;0;0
+7;1;182265.5989;32240.57391;1; FALSE; FALSE;0; TRUE; FALSE; AUDIO; "D:\a.wav";0;8633.633634;1380000;0;0;1;0;0;0;0;0;-1;0;0;0; FALSE;0;0
+8;1;214506.1728;2252.252252;1; FALSE; FALSE;0; TRUE; FALSE; AUDIO; "D:\a.wav";0;39914.91491;1380000;0;0;1;0;0;0;0;0;-1;0;0;0; FALSE;0;0
+9;1;216758.4251;21855.18852;1; FALSE; FALSE;0; TRUE; FALSE; AUDIO; "D:\a.wav";0;1249708.041;1380001;0;0;1;0;0;0;0;0;-1;0;0;0; FALSE;0;0
+10;1;238613.6136;4587.921255;1; FALSE; FALSE;0; TRUE; FALSE; AUDIO; "D:\a.wav";0;1276359.693;1380000.444;0;0;1;0;0;0;0;0;-1;0;0;0; FALSE;0;0
