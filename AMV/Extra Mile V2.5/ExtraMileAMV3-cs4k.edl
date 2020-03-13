@@ -1,0 +1,76 @@
+TITLE: Sequence 02
+
+001  AX       V     C        13024       14190       0           1166       
+* FROM CLIP NAME: ep3-480p.avs
+
+002  AX       V     C        93          766         1166        1839       
+* FROM CLIP NAME: ep10-480p.avs
+
+003  AX       V     C        23583       23952       1839        2208       
+* FROM CLIP NAME: ep10-480p.avs
+
+004  AX       V     C        7320        7708        2208        2596       
+* FROM CLIP NAME: ep3-480p.avs
+
+005  AX       V     C        26872       27352       2596        3076       
+* FROM CLIP NAME: ep10-480p.avs
+
+006  AX       V     C        29173       29507       3076        3410       
+* FROM CLIP NAME: ep10-480p.avs
+
+007  AX       V     C        29807       30119       3410        3722       
+* FROM CLIP NAME: ep10-480p.avs
+
+008  AX       V     C        7600        8248        3722        4370       
+* FROM CLIP NAME: ep12-480p.avs
+
+009  AX       V     C        207         980         4370        5143       
+* FROM CLIP NAME: ep12-480p.avs
+
+010  AX       V     C        957         1011        5143        5197       
+* FROM CLIP NAME: ep12-480p_HS.avs
+
+011  AX       V     C        29963       30487       5197        5721       
+* FROM CLIP NAME: ep12-480p.avs
+
+012  AX       V     C        30602       30710       5721        5829       
+* FROM CLIP NAME: ep12-480p.avs
+
+013  AX       V     C        0           24          5829        5853       
+* FROM CLIP NAME: ep12-480p.avs
+
+014  BL       V     C        0           223         5853        6076       
+014  BL       V     K B      0           922         6076        6194       
+014  AX       V     K    000 12832       12950       6076        6194       
+* KEY CLIP NAME: ep3-480p.avs
+
+015  BL       V     C        0           715         5853        6568       
+015  BL       V     K B      0           430         6568        6998       
+015  AX       V     K    000 7725        7918        6568        6761       
+* KEY CLIP NAME: ep3-480p.avs
+
+016  AX       V     C        33906       34072       6998        7164       
+* FROM CLIP NAME: ep12-480p.avs
+
+017  BL       V     C        0           1902        7164        9066       
+
+018  AX       V     C        25713       25890       9066        9243       
+* FROM CLIP NAME: ep10-480p.avs
+
+019  BL       V     C        0           43          9243        9286       
+
+020  AX       V     C        19227       19283       9286        9342       
+* FROM CLIP NAME: ep3-480p.avs
+
+021  BL       V     C        0           380         9342        9722       
+
+022  AX       V     C        17612       17742       9722        9852       
+* FROM CLIP NAME: ep3-480p.avs
+
+023  BL       V     C        0           797         9852        10649      
+
+024  AX       V     C        30118       30581       10649       11112      
+* FROM CLIP NAME: ep10-480p.avs
+
+025  AX       AA    C        0           5864        0           5864       
+* FROM CLIP NAME: ExtraMile20P.wav
