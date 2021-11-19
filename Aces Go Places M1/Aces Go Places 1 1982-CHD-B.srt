@@ -4,7 +4,7 @@ Thank you.
 
 2
 00:03:31,937 --> 00:03:33,126
-Watch out.
+A grenade!
 
 3
 00:04:04,968 --> 00:04:06,157
@@ -12,7 +12,7 @@ Bye-bye.
 
 4
 00:04:19,682 --> 00:04:24,342
-I'm sorry, the lift is out of order.
+I'm sorry, the lift is broken.
 Bye-bye.
 
 5
@@ -21,27 +21,29 @@ Don't move!
 
 6
 00:04:37,099 --> 00:04:43,761
-Hurry, over there!
+That way! Oi! Hurry!
+Over there!
 
 7
 00:04:53,281 --> 00:04:54,469
-Isn't it ready yet?
+What are you doing?
 
 8
 00:04:55,249 --> 00:04:58,441
-I'm just fixing the whatnot...
+I'm fixing the front, no, the tyre.
 
 9
 00:05:01,822 --> 00:05:04,718
-It's all set now.
+Now, your bike's real fast. Faster than the wind.
 
 10
 00:05:12,333 --> 00:05:13,591
-If I hadn't promised your late father,
+If I didn't promise your late father
+I'd look after you,
 
 11
 00:05:13,601 --> 00:05:14,700
-you wouldn't be here at all.
+I'd have thrown you into the big blue ocean!
 
 12
 00:05:14,701 --> 00:05:15,634
@@ -53,21 +55,21 @@ What's next?
 
 14
 00:05:16,603 --> 00:05:17,769
-- The plane.
+The plane.
 - What?
 
 15
 00:05:17,770 --> 00:05:19,403
-- The yacht.
+The yacht.
 - What?
 
 16
 00:05:19,572 --> 00:05:21,967
-Oh no, the glider.
+Oh, no, the glider.
 
 17
 00:05:22,108 --> 00:05:23,297
-Get on with it then.
+Hurry up then.
 
 18
 00:05:24,377 --> 00:05:25,635
@@ -83,22 +85,22 @@ Bye-bye...
 
 21
 00:09:25,106 --> 00:09:27,965
-- Roberto! Nice to see you again!
+Roberto! Nice to see you again!
 - Oh, Monty!
 
 22
 00:09:28,872 --> 00:09:31,199
-- Welcome home!
+Welcome home!
 - Hey, Monty!
 
 23
 00:09:31,200 --> 00:09:33,294
-- Have a nice time in Hong Kong?
+Had a nice time in Hong Kong?
 - No.
 
 24
 00:09:33,295 --> 00:09:35,281
-- Godfather is not happy.
+Godfather is not happy.
 - Me too...
 
 25
@@ -146,7 +148,7 @@ and give me a lot of bullshit.
 
 35
 00:10:13,952 --> 00:10:18,110
-Now, tell me, who did it?
+Now, tell me, who did it? Huh?
 
 36
 00:10:18,723 --> 00:10:20,015
@@ -162,7 +164,7 @@ He's in Venice!
 
 39
 00:10:37,073 --> 00:10:39,332
-I believe you, my boy.
+So I believe you, my boy.
 
 40
 00:10:39,810 --> 00:10:42,137
@@ -193,7 +195,7 @@ but I cannot lose the Italian's face.
 
 46
 00:11:01,397 --> 00:11:02,430
-Got it?
+Capeesh?
 
 47
 00:11:02,431 --> 00:11:03,723
@@ -222,39 +224,38 @@ Wait...
 
 53
 00:11:40,351 --> 00:11:45,013
-You forget, my Chinese is better than
-your English.
+Englishman here. You need not speak English. Chinese is fine.
 
 54
 00:11:45,052 --> 00:11:46,970
-Hua, you carry on.
+Hua, carry on.
 
 55
 00:11:47,191 --> 00:11:51,122
-A robbery took place in
-Tsimshatsui Centre recently.
+Recently at Tsim Sha Tsui Centre,
+a major robbery took place.
 
 56
 00:11:51,295 --> 00:11:56,090
-An invaluable consignment of diamonds
-was lost but not reported.
+A valuable consignment of diamonds
+was robbed, but was not reported.
 
 57
 00:11:56,199 --> 00:11:58,526
-Here's the information we have.
+Let's look at the information we've gathered
 
 58
 00:12:07,677 --> 00:12:13,315
-This is Szeto, who deals in stolen goods.
+This is a local gangster. He's called Szeto Buren, who specializes in stolen goods.
 
 59
 00:12:15,550 --> 00:12:19,618
 This is the leader of an international
-smuggling syndicate,
+smuggling syndicate.
 
 60
 00:12:19,721 --> 00:12:22,788
-an Italian by the name of Manterosso.
+An Italian called Montesotto.
 
 61
 00:12:22,858 --> 00:12:27,722
@@ -267,62 +268,61 @@ to the police either.
 
 63
 00:12:32,467 --> 00:12:38,002
-There was only a white glove left
-at the scene of the crime.
+The only thing left at the scene of the crime,
+was a white glove.
 
 64
 00:12:38,105 --> 00:12:42,571
-That's all the information we have.
+Our #1 piece of information, is a blank.
 
 65
 00:12:43,811 --> 00:12:48,004
-Supplied by the informer Squealie.
+The source of the previous information is Squealie,
 
 66
 00:12:48,215 --> 00:12:52,579
-For obvious reasons, his true identity
-is kept top secret.
+an undercover agent from us. So we cannot reveal more than his nickname.
 
 67
 00:12:52,787 --> 00:12:54,385
-We all know him, it's Ming.
+His name is Nick!
 
 68
 00:12:54,387 --> 00:12:57,522
-Hush, the walls have ears.
+SILENCE! Don't ruin the atmosphere.
 
 69
 00:12:57,657 --> 00:13:02,556
-This is the internationally renowned
-burglar White Glove
+This is the world-famous burglar.
+He's called White Glove.
 
 70
 00:13:02,796 --> 00:13:04,930
-who specializes in diamonds and gold.
+He specializes in stealing diamonds and gold.
 
 71
 00:13:05,098 --> 00:13:08,461
-He has 7 passports, 8 different names
+He has 7 passports, 8 surnames,
 
 72
 00:13:08,501 --> 00:13:12,262
-nine identities and two sexes.
+9 identities and 2 sexes.
 
 73
 00:13:13,106 --> 00:13:15,432
-It is indeed our honour
+When he came to Hong Kong,
 
 74
 00:13:15,607 --> 00:13:18,537
-that he has graced us with his presence.
+you could say that it's a blessing for the Hong Kong people.
 
 75
 00:13:18,877 --> 00:13:22,740
-But unfortunately, also our dishonour.
+You could also say it's a blight for the Hong Kong people.
 
 76
 00:13:23,115 --> 00:13:27,752
-So we must get the help of his arch enemies.
+So, we need to think of a way, to find his arch enemies, and do battle.
 
 77
 00:13:27,786 --> 00:13:28,953
@@ -330,11 +330,11 @@ Arch enemies?
 
 78
 00:13:28,954 --> 00:13:32,180
-Yes, he has two.
+Right, he has two.
 
 79
 00:13:32,458 --> 00:13:35,820
-One is Peter Sellers, the Pink Panther.
+The 1st is the Pink Panther, Peter Sellers.
 
 80
 00:13:36,027 --> 00:13:38,286
@@ -342,72 +342,71 @@ But he is no longer with us.
 
 81
 00:13:38,696 --> 00:13:41,364
-The other is...
+The 2nd is the ...
 
 82
 00:13:41,365 --> 00:13:42,554
-Hey, you're in the way.
+Hey, you're in the way!
 
 83
 00:13:42,967 --> 00:13:45,192
-The U.S. super sleuth, Kodojak,
+Detective Baldy from the states.
 
 84
 00:13:45,436 --> 00:13:49,936
-who was demoted from inspector
-to sergeant
+Due to White Glove, he went from full bloom to full barren.
 
 85
 00:13:49,974 --> 00:13:54,633
-and lost all his hair because of
-White Glove.
+From hairy, to baldy.
+
 
 86
 00:13:54,678 --> 00:13:57,506
-If he doesn't catch White Glove
+His boss says, if he doesn't catch White Glove
 within 3 months,
 
 87
 00:13:57,614 --> 00:14:01,682
-he'll be dismissed from the force.
+he'll be on his pension
+and washing dishes in his hometown.
 
 88
 00:14:03,887 --> 00:14:07,420
-We'll bring Kodojak here
+So, we'll organize to invite Detective Baldy to Hong Kong
 
 89
 00:14:07,491 --> 00:14:10,922
 since he is most keen on
-getting White Glove.
+catching White Glove.
 
 90
 00:14:10,961 --> 00:14:16,894
-We'll also be assigning
-Superintendent Ho...
+Also, we'll be assigning this year's most outstanding young policewoman, Superintendent Ho Tung-sze...
 
 91
 00:14:16,966 --> 00:14:18,360
-That tough lady!
+That tiger?
 
 92
 00:14:18,801 --> 00:14:23,165
-... to assist Kodojak on this case.
+...to team up with Detective Baldy on this case.
 
 93
 00:14:23,172 --> 00:14:25,670
-Marvellous idea!
+Excellent idea!
 
 94
 00:14:31,480 --> 00:14:33,375
-Hey you, got a light?
+Hey you, got a lighter?
 
 95
 00:14:36,317 --> 00:14:37,745
-Wow, it's a bird!
+Wow, it's a babe!
 
 96
 00:14:39,187 --> 00:14:40,979
-Come on baby, light my fire.
+A babe will definitely have a lighter.
 
 97
 00:14:41,055 --> 00:14:42,347
@@ -419,11 +418,11 @@ Wait till you find out what's under it all.
 
 99
 00:14:49,297 --> 00:14:50,555
-You wanna take a look?
+You wanna look at something?
 
 100
 00:14:50,565 --> 00:14:51,823
-Sure thing!
+Of course!
 
 101
 00:14:53,167 --> 00:14:54,697
@@ -431,49 +430,48 @@ Don't blink!
 
 102
 00:14:55,369 --> 00:14:58,436
-You want a light? Here, I got a light.
+Now, here! Light, light, light.
 
 103
 00:14:58,472 --> 00:15:01,402
-Don't make me angry!
+I'll light your butt when my gun goes off!
 
 104
 00:15:01,642 --> 00:15:04,743
-It's all his fault! Sorry, lady.
+It's all his fault! Nothing to do wth me! Miss, we'll listen next time.
 
 105
 00:15:06,346 --> 00:15:09,447
-- Let's go.
-- It's all your fault!
+Let's go! Every day, you pull this shit!
 
 106
 00:15:09,449 --> 00:15:11,514
-Let's get out of here.
+You're blaming me? I'm better than you! Of course a babe will have a... Go!
 
 107
 00:15:16,422 --> 00:15:19,090
-Never seen legs before?
+What you lookin' at? Never seen a woman's thighs before?
 
 108
 00:15:19,559 --> 00:15:21,158
-No, I was just admiring your holster.
+I was just looking at your holster.
 
 109
 00:15:21,394 --> 00:15:23,789
-Are you going to meet Kodojak?
+Officer Ho, are you going to pick up Detective Baldy?
 
 110
 00:15:23,996 --> 00:15:27,029
-I'm too busy for that, I'm here
+Like hell I have time to pick him up, I'm here
 to look for Squealie, the informer.
 
 111
 00:15:27,199 --> 00:15:29,367
-You'll never find him in this crowd.
+So many people here, how can find him?
 
 112
 00:15:29,602 --> 00:15:33,635
-He'll hear me when I shout.
+Watch closely. When I say the word, he'll come out.
 
 113
 00:15:34,105 --> 00:15:35,704
@@ -481,23 +479,23 @@ Squealie!
 
 114
 00:15:35,707 --> 00:15:37,341
-He's not here.
+He's not here!
 
 115
 00:15:37,342 --> 00:15:38,839
-Hold it right there.
+Hold it right there!
 
 116
 00:15:40,045 --> 00:15:41,371
-Gotta go.
+Gotta run.
 
 117
 00:15:41,913 --> 00:15:43,102
-Hold it!
+Still running?
 
 118
 00:16:06,570 --> 00:16:07,759
-Don't move!
+Don't run!
 
 119
 00:16:17,513 --> 00:16:19,571
@@ -505,24 +503,24 @@ Come on, get down.
 
 120
 00:16:20,617 --> 00:16:24,548
-There's nobody here! Don't take it so serious.
+There's nobody here! Don't take it so seriously.
 
 121
 00:16:25,521 --> 00:16:28,918
-I'm covering for you. Got anything for me?
+I'm covering for you. Got any info?
 
 122
 00:16:29,359 --> 00:16:32,323
-Sure, three clues... two are good
-and one's bad.
+Sure, three pieces... two good
+and one bad.
 
 123
 00:16:33,829 --> 00:16:35,553
-Give me the two good ones.
+Give me the two good ones then.
 
 124
 00:16:36,698 --> 00:16:39,767
-Kodojak is arriving from the States today.
+Good: Detective Baldy is arriving from the States today.
 
 125
 00:16:39,768 --> 00:16:41,731
@@ -530,11 +528,11 @@ You've been assigned to work with him.
 
 126
 00:16:41,970 --> 00:16:43,330
-How come you know our stuff too?!
+How come you know our stuff too?
 
 127
 00:16:43,472 --> 00:16:45,697
-I'm a professional informer.
+How else can I be an informer?
 
 128
 00:16:46,074 --> 00:16:47,263
@@ -542,8 +540,8 @@ What else?
 
 129
 00:16:47,376 --> 00:16:50,841
-There's a robbery at the
-Kowloon City Jewellery shop.
+Also, there's going to be a robbery today,
+in Kowloon, at the Chow Tai Fok Jewellery shop
 
 130
 00:16:50,912 --> 00:16:52,101
@@ -551,23 +549,23 @@ How did you know it's today?
 
 131
 00:16:52,280 --> 00:16:54,941
-I picked the day for them, most propitious.
+I picked the day for them.
 
 132
 00:16:55,249 --> 00:16:56,438
-For the robbery?
+Huh? Today's a good day?
 
 133
 00:16:58,085 --> 00:17:00,109
-No, for catching the robbers.
+No, it's a bad day
 
 134
 00:17:02,123 --> 00:17:03,312
-Let's have the bad one too.
+Oi! What about bad one?
 
 135
 00:17:03,824 --> 00:17:06,686
-Your senior said you wouldn't be
+Bad: Your boss said you wouldn't be
 at the airport today.
 
 136
@@ -576,15 +574,18 @@ He told me to do my rounds here.
 
 137
 00:17:08,829 --> 00:17:12,157
-I'd never thought I'd run into you.
+I'd never thought I'd run into you
+Rotten luck, eh?
+
 
 138
 00:17:16,803 --> 00:17:17,836
-The plane has landed.
+It's arrived.
 
 139
 00:17:17,837 --> 00:17:21,073
-I have to go check out a case.
+It's arrived? Why not wait for him?
+I have to go check a case.
 
 140
 00:17:21,074 --> 00:17:22,107
@@ -592,38 +593,38 @@ What case?
 
 141
 00:17:22,108 --> 00:17:24,503
-A big case. Mind your own business.
+None of your business. A big case.
 
 142
 00:17:41,894 --> 00:17:43,584
-- Roses are red.
-- Violets are blue.
+Wind against Water,
+- Snow against Wind,
 
 143
 00:17:43,796 --> 00:17:45,759
-- Cupcakes for tea.
-- And I love you.
+White against Red,
+- Four Great Happiness,
 
 144
 00:17:45,764 --> 00:17:47,693
-- Cat Ballou...
-- ... lost his shoe.
+Young husband,
+- Losing is tough,
 
 145
 00:17:47,733 --> 00:17:49,127
-What a boohoohoo.
+Winning is fun
 
 146
 00:17:50,002 --> 00:17:51,930
-I'm Danny Chan, the singer.
+I'm Danny Chan.
 
 147
 00:17:51,937 --> 00:17:53,767
-I'm Albert Au, the folk song superstar!
+I'm Albert Au
 
 148
 00:17:54,372 --> 00:17:56,130
-That's just my cover name.
+That's a fake name.
 
 149
 00:17:56,874 --> 00:17:58,439
@@ -631,7 +632,8 @@ Mine too.
 
 150
 00:18:08,953 --> 00:18:12,884
-You're going to be robbed today.
+Hey boss, you're going to be robbed today.
+!!==upto
 
 151
 00:18:13,224 --> 00:18:15,157
@@ -1500,7 +1502,7 @@ the diamond job.
 
 361
 00:34:38,759 --> 00:34:40,693
-- He doesn't look like he's capable of that.
+He doesn't look like he's capable of that.
 - No?
 
 362
@@ -2116,7 +2118,7 @@ Must be my sister's. Just leave it.
 
 512
 00:45:39,486 --> 00:45:42,052
-- Put it down.
+Put it down.
 - Fine.
 
 513
@@ -2731,7 +2733,7 @@ No, I'll talk!
 
 663
 00:53:20,156 --> 00:53:21,482
-- Shush!
+Shush!
 - What shush!?
 
 664
@@ -2922,7 +2924,7 @@ It will be given to his father automatically.
 
 709
 00:56:02,544 --> 00:56:04,405
-- Can you proof he is Joe's father?
+Can you proof he is Joe's father?
 - Yes.
 
 710
@@ -3572,7 +3574,7 @@ Tastes like it!
 
 868
 01:09:45,525 --> 01:09:47,590
-- Your birthday, huh?
+Your birthday, huh?
 - Right.
 
 869
@@ -3838,7 +3840,7 @@ This one?
 
 934
 01:17:20,857 --> 01:17:24,652
-- That her?
+That her?
 - Papa!
 
 935
@@ -3867,7 +3869,7 @@ Go on!
 
 941
 01:18:07,268 --> 01:18:09,765
-- Shall we?
+Shall we?
 - Go, go, go.
 
 942
@@ -4123,7 +4125,7 @@ That should get rid of her.
 
 1004
 01:23:02,081 --> 01:23:03,248
-- Ready.
+Ready.
 - Anytime you are.
 
 1005
@@ -4481,3 +4483,9 @@ That's what we are.
 1092
 01:33:16,030 --> 01:33:20,428
 Always a pair of aces.
+
+1093
+01:33:20,428 --> 01:35:20,428
+Credits:
+Re-translation: junh1024
+QC: Sakura, bluesun, eva.
