@@ -1,4 +1,8 @@
 1
+00:00:50,24 --> 00:00:51,49
+Building sign: Tsim Sha Tsui Centre
+
+1
 00:03:27,600 --> 00:03:29,165
 Thank you.
 
@@ -82,6 +86,10 @@ Hurry up!
 20
 00:05:47,799 --> 00:05:48,988
 Bye-bye...
+
+20
+00:06:27,20 --> 00:06:35,50
+Temporary Sign: Road works
 
 21
 00:09:25,106 --> 00:09:27,965
@@ -224,11 +232,12 @@ Wait...
 
 53
 00:11:40,351 --> 00:11:45,013
-Englishman here. You need not speak English. Chinese is fine.
+Englishman here. Don't need to speak English. Chinese is fine too.
 
 54
 00:11:45,052 --> 00:11:46,970
-Hua, carry on.
+Mr. Hua, please speak.
+- Oh.
 
 55
 00:11:47,191 --> 00:11:51,122
@@ -398,7 +407,7 @@ Excellent idea!
 
 94
 00:14:31,480 --> 00:14:33,375
-Hey you, got a lighter?
+Hey bro, got a lighter?
 
 95
 00:14:36,317 --> 00:14:37,745
@@ -410,11 +419,11 @@ A babe will definitely have a lighter.
 
 97
 00:14:41,055 --> 00:14:42,347
-She's a little overdressed for that.
+She's a little overdressed though.
 
 98
 00:14:44,659 --> 00:14:46,656
-Wait till you find out what's under it all.
+All the more satisfying to undress hah!
 
 99
 00:14:49,297 --> 00:14:50,555
@@ -438,15 +447,15 @@ I'll light your butt when my gun goes off!
 
 104
 00:15:01,642 --> 00:15:04,743
-It's all his fault! Nothing to do wth me! Miss, we'll listen next time.
+It's all his fault! Not me! Miss, we'll leave you next time!
 
 105
 00:15:06,346 --> 00:15:09,447
-Let's go! Every day, you pull this shit!
+Let's go! You pull this shit every day!
 
 106
 00:15:09,449 --> 00:15:11,514
-You're blaming me? I'm better than you! Of course a babe will have a... Go!
+You're dissing me? I'm better than you! Of course a babe will have a... Go!
 
 107
 00:15:16,422 --> 00:15:19,090
@@ -616,11 +625,11 @@ Winning is fun
 
 146
 00:17:50,002 --> 00:17:51,930
-I'm Danny Chan.
+I'm called Chan Pak-keung (Danny Chan)
 
 147
 00:17:51,937 --> 00:17:53,767
-I'm Albert Au
+I'm called Au Shui-Keung (Albert Au)
 
 148
 00:17:54,372 --> 00:17:56,130
@@ -632,17 +641,16 @@ Mine too.
 
 150
 00:18:08,953 --> 00:18:12,884
-Hey boss, you're going to be robbed today.
-!!==upto
+Hey boss, you're going to be robbed soon.
 
 151
 00:18:13,224 --> 00:18:15,157
-But fear not, I'm here..
+But fear not, I'm here...
 
 152
 00:18:15,158 --> 00:18:22,230
-Don't anybody move. Easy now.
-Get down on the floor!
+It's a robbery! Don't move! Get away!
+What are you doing? Get down on the floor!
 
 153
 00:18:24,735 --> 00:18:26,732
@@ -650,12 +658,12 @@ Stand in the corner. Hurry!
 
 154
 00:18:28,271 --> 00:18:30,166
-Fill it up. Get a move on.
+Hey, Fill it up! Chop-chop!
 
 155
 00:18:34,009 --> 00:18:37,872
 Attention all units, alarm at the
-Kowloon City Jewellery shop.
+Kowloon Chow Tai Fok Jewellery shop.
 
 156
 00:18:37,913 --> 00:18:39,842
@@ -663,7 +671,7 @@ Can you check it out?
 
 157
 00:18:41,050 --> 00:18:42,308
-Where's the jewellery shop?
+Where's Chow Tai Fok Jewellery shop?
 
 158
 00:18:42,351 --> 00:18:43,384
@@ -675,11 +683,11 @@ Let's go...
 
 160
 00:18:45,621 --> 00:18:47,021
-We're ready, chief.
+Boss, we're ready.
 
 161
 00:18:47,022 --> 00:18:49,087
-Go get a car.
+Go get a car, don't move!
 
 162
 00:18:55,396 --> 00:18:56,585
@@ -687,7 +695,7 @@ Don't move!
 
 163
 00:18:57,565 --> 00:18:59,699
-Don't move! Get back in.
+Get back in, or I'll blow your head off!
 
 164
 00:19:02,670 --> 00:19:03,859
@@ -695,11 +703,11 @@ Don't move!
 
 165
 00:19:04,239 --> 00:19:05,405
-Ready to go, chief.
+Boss, we're finished!
 
 166
 00:19:05,406 --> 00:19:06,595
-Follow us and you're dead!
+Don't follow us, eh?
 
 167
 00:19:11,346 --> 00:19:12,535
@@ -707,35 +715,39 @@ Move it!
 
 168
 00:19:23,190 --> 00:19:25,415
-Get out, I'm a police officer.
+Oi! A police officer now requisitions use of your car!
 
 169
 00:19:31,799 --> 00:19:33,159
-Where's the key?
+The key?
 
 170
 00:19:33,166 --> 00:19:34,731
-Right here...
+Right here... Ha ha ha!
 
 171
 00:19:38,204 --> 00:19:40,872
-Hurry up... step on it, old man.
+Step on it!
 
 172
 00:19:41,240 --> 00:19:43,237
-No problem. What's your rush?
+It's hard to be slow but it's easy to be fast!
 
 173
 00:19:59,825 --> 00:20:04,826
-Are you trying to get us killed? Watch it!
+You trynna kill us?
+- What if they report us?
+- Watch it!
+- Just drive!
 
 174
 00:20:10,669 --> 00:20:13,536
-We want to enjoy this loof.
+Do you know how to drive, Baldhead? You aren't dead yet?
 
 175
 00:20:13,537 --> 00:20:15,205
-Sorry, entirely accidental.
+Accident! Accident!
+!!==upto
 
 176
 00:20:15,206 --> 00:20:19,570
@@ -4488,4 +4500,4 @@ Always a pair of aces.
 01:33:20,428 --> 01:35:20,428
 Credits:
 Re-translation: junh1024
-QC: Sakura, bluesun, eva.
+Special thanks: Sakura, bluesun, eva.
